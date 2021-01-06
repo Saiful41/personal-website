@@ -1,0 +1,113 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+section{
+    padding-bottom: 150px;
+    height: 500px;
+}
+
+#nav{
+	background:#fff;
+    height:38px;
+    margin-left:50%;
+    padding-bottom: 150px;
+    
+}
+#nav ul{
+    background: white;
+    list-style-type: none;
+}
+#nav ul li{
+    float:left;
+}
+#nav ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+}
+h1{
+    font-size:50px;
+}
+.hello{
+    color:tomato;
+}
+.name-color{
+    color:purple
+}
+p{
+    color:dimgray;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);;
+    padding: 10px 20px;
+    border-radius:5px ;
+    font-weight: 700;
+    color:white;
+}
+.project-area{
+    background-color:whitesmoke
+}
+.working{
+    color:rgb(214, 69, 214);
+    text-align: center;
+}
+.lastet{
+    color: tomato;
+}
+.three-part{
+    width: 29%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+}
+.three-part img{
+    width: 100%;
+}
+.last-part{
+    background: url("images/Group_33094_1.png") no-repeat;
+    background-size: 70% 40%;
+    background-position: center;
+   
+}    
+
+.inquiry-half{
+    width: 40%;
+    margin-left: 5%;
+    float: left;
+    height: 500px;
+    padding: 2%;
+}
+.inquiry-button{
+    margin-left: 210px;
+    margin-top: 210px;
+    display: inline-block;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 30px;
+    font-weight: 500;
+    border-radius: 5px;
+    color:white
+    
+}
+.inquiry-half h1{
+    text-align: center;
+    margin-left: 130px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 220px;
+    color: white;
+    font-size: 60px;
+    font-weight: 500;
+}
