@@ -111,3 +111,10 @@ p{
     font-size: 60px;
     font-weight: 500;
 }
+.footer{
+    text-align: center;
+    color:#040E38
+}
+.icon{
+    margin-left: 40%;
+}
